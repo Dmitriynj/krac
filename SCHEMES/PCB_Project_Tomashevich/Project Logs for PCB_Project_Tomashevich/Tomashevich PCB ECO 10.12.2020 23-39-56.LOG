@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=XP1 Old Footprint=CON: 6PCV-02-006 New Footprint=CON: CWF-2
+Change Component Footprint: Designator=XP2 Old Footprint=CON: 6PCV-02-006 New Footprint=CON: CWF-2
+Change Component Comment : Designator=XP1 Old Comment=Connector, 2pin, 9.53mm, 300VAC, 25A New Comment=Connector, 2pin, 2.54mm, 250VAC, 3A
+Change Component Comment : Designator=XP2 Old Comment=Connector, 2pin, 9.53mm, 300VAC, 25A New Comment=Connector, 2pin, 2.54mm, 250VAC, 3A
+Change component parameters: Designator = "XP1" ("XP1"); Footprint = "CON: 6PCV-02-006"; UniqueID = "\TUVBXRWZ" ("\TUVBXRWZ")
+Change component parameters (AddParameter): Name = "CommentText"; Value = ""׀אחתול""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/cwf-2r-ds1069-2-mr"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CWF-2R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 2pin, 2.54mm, 250VAC, 3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageMax"; Value = "250VAC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "XP2" ("XP2"); Footprint = "CON: 6PCV-02-006"; UniqueID = "\IFPQUAED" ("\IFPQUAED")
+Change component parameters (AddParameter): Name = "CommentText"; Value = ""׀אחתול""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/cwf-2r-ds1069-2-mr"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CWF-2R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 2pin, 2.54mm, 250VAC, 3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageMax"; Value = "250VAC"; VariantName = "[No Variations]"

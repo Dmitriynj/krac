@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=XP1 Old Footprint=CON: CWF-2 New Footprint=CON: 6PCV-02-006
+Change Component Footprint: Designator=XP2 Old Footprint=CON: CWF-2 New Footprint=CON: 6PCV-02-006
+Change Component Comment : Designator=XP1 Old Comment=Connector, 2pin, 2.54mm, 250VAC, 3A New Comment=Connector, 2pin, 9.53mm, 300VAC, 25A
+Change Component Comment : Designator=XP2 Old Comment=Connector, 2pin, 2.54mm, 250VAC, 3A New Comment=Connector, 2pin, 9.53mm, 300VAC, 25A
+Change component parameters: Designator = "XP1" ("XP1"); Footprint = "CON: CWF-2"; UniqueID = "\HVLMVJEU" ("\HVLMVJEU")
+Change component parameters (AddParameter): Name = "CommentText"; Value = ""׀אחתול""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CurrentMax"; Value = "25A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=6PCV-02-006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "6PCV-02-006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "9.53mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 2pin, 9.53mm, 300VAC, 25A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "XP2" ("XP2"); Footprint = "CON: CWF-2"; UniqueID = "\MDPRFBLW" ("\MDPRFBLW")
+Change component parameters (AddParameter): Name = "CommentText"; Value = ""׀אחתול""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CurrentMax"; Value = "25A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=6PCV-02-006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "6PCV-02-006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "9.53mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 2pin, 9.53mm, 300VAC, 25A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
